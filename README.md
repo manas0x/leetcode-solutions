@@ -30,4 +30,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manas0x/leetcode-solutions/tree/main/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/manas0x/leetcode-solutions/tree/main/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/manas0x/leetcode-solutions/tree/main/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->

@@ -30,6 +30,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/manas0x/leetcode-solutions/tree/main/0002-add-two-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii) |
+| [3783-mirror-distance-of-an-integer](https://github.com/manas0x/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |

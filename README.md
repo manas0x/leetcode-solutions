@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manas0x/leetcode-solutions/tree/main/0002-add-two-numbers) |
+| [0292-nim-game](https://github.com/manas0x/leetcode-solutions/tree/main/0292-nim-game) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/manas0x/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer) |
 ## Recursion
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manas0x/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/manas0x/leetcode-solutions/tree/main/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/manas0x/leetcode-solutions/tree/main/0292-nim-game) |
 <!---LeetCode Topics End-->

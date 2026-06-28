@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manas0x/leetcode-solutions/tree/main/0001-two-sum) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manas0x/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manas0x/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manas0x/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii) |
@@ -78,4 +79,12 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manas0x/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manas0x/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manas0x/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->

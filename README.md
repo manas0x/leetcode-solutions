@@ -36,12 +36,14 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/manas0x/leetcode-solutions/tree/main/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/manas0x/leetcode-solutions/tree/main/0292-nim-game) |
+| [0326-power-of-three](https://github.com/manas0x/leetcode-solutions/tree/main/0326-power-of-three) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/manas0x/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manas0x/leetcode-solutions/tree/main/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/manas0x/leetcode-solutions/tree/main/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |

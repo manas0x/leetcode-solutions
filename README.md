@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/manas0x/leetcode-solutions/tree/main/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/manas0x/leetcode-solutions/tree/main/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/manas0x/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manas0x/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manas0x/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/manas0x/leetcode-solutions/tree/main/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/manas0x/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manas0x/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/manas0x/leetcode-solutions/tree/main/0292-nim-game) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/manas0x/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->

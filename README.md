@@ -82,6 +82,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manas0x/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/manas0x/leetcode-solutions/tree/main/3898-find-the-degree-of-each-vertex) |
@@ -123,11 +124,13 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manas0x/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manas0x/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -148,4 +151,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manas0x/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->

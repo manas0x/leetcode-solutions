@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/manas0x/leetcode-solutions/tree/main/0001-two-sum) |
 | [0015-3sum](https://github.com/manas0x/leetcode-solutions/tree/main/0015-3sum) |
+| [0016-3sum-closest](https://github.com/manas0x/leetcode-solutions/tree/main/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manas0x/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/manas0x/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/manas0x/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/manas0x/leetcode-solutions/tree/main/0015-3sum) |
+| [0016-3sum-closest](https://github.com/manas0x/leetcode-solutions/tree/main/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/manas0x/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manas0x/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Brainteaser
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/manas0x/leetcode-solutions/tree/main/0015-3sum) |
+| [0016-3sum-closest](https://github.com/manas0x/leetcode-solutions/tree/main/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manas0x/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/manas0x/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array) |
 ## Topological Sort

@@ -11,6 +11,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/manas0x/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/manas0x/leetcode-solutions/tree/main/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/manas0x/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/manas0x/leetcode-solutions/tree/main/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manas0x/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manas0x/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/manas0x/leetcode-solutions/tree/main/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/manas0x/leetcode-solutions/tree/main/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/manas0x/leetcode-solutions/tree/main/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manas0x/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manas0x/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manas0x/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
@@ -121,6 +123,7 @@
 | [0016-3sum-closest](https://github.com/manas0x/leetcode-solutions/tree/main/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/manas0x/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/manas0x/leetcode-solutions/tree/main/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/manas0x/leetcode-solutions/tree/main/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manas0x/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 ## Brainteaser

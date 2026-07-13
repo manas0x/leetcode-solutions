@@ -54,6 +54,7 @@
 | [0002-add-two-numbers](https://github.com/manas0x/leetcode-solutions/tree/main/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/manas0x/leetcode-solutions/tree/main/0292-nim-game) |
 | [0326-power-of-three](https://github.com/manas0x/leetcode-solutions/tree/main/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/manas0x/leetcode-solutions/tree/main/0509-fibonacci-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/manas0x/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/manas0x/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer) |
@@ -62,9 +63,11 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/manas0x/leetcode-solutions/tree/main/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/manas0x/leetcode-solutions/tree/main/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/manas0x/leetcode-solutions/tree/main/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/manas0x/leetcode-solutions/tree/main/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/manas0x/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
@@ -189,4 +192,8 @@
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/manas0x/leetcode-solutions/tree/main/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

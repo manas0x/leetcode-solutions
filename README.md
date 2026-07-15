@@ -2,7 +2,7 @@
 A comprehensive collection of my data structures and algorithms solutions, neatly organized by platform and topic tags!
 
 <div align="center">
-  <img src="https://manas.eu.org/leetcode/stats.php?u=manas0x" alt="LeetCode Stats" />
+  <img src="./leetcode-stats.svg" alt="LeetCode Stats" />
 </div>
 
 ## 📁 LeetCode
@@ -55,6 +55,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | Problem |
 | ------- |
 | [0002-add-two-numbers](./LeetCode/Linked-List/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](./LeetCode/Linked-List/0876-middle-of-the-linked-list) |
 
 ### Math
 | Problem |

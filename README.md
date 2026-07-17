@@ -28,6 +28,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [2812-find-the-safest-path-in-a-grid](./LeetCode/Array/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](./LeetCode/Array/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](./LeetCode/Array/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](./LeetCode/Array/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](./LeetCode/Array/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](./LeetCode/Array/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](./LeetCode/Array/3620-network-recovery-pathways) |

@@ -78,6 +78,11 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | ------- |
 | [0008-string-to-integer-atoi](./LeetCode/String/0008-string-to-integer-atoi) |
 
+### Two Pointers
+| Problem |
+| ------- |
+| [0125-valid-palindrome](./LeetCode/Two-Pointers/0125-valid-palindrome) |
+
 ### Unknown
 | Problem |
 | ------- |

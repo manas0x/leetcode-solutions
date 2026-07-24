@@ -32,6 +32,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [3286-find-a-safe-walk-through-a-grid](./LeetCode/Array/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](./LeetCode/Array/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](./LeetCode/Array/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](./LeetCode/Array/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](./LeetCode/Array/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](./LeetCode/Array/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](./LeetCode/Array/3737-count-subarrays-with-majority-element-i) |

@@ -160,7 +160,7 @@
         fill="#FFA116"
         font-family="Segoe UI, Arial"
     >
-        316    </text>
+        324    </text>
 
     <!-- Acceptance -->
     <rect
@@ -191,7 +191,7 @@
         fill="#58A6FF"
         font-family="Segoe UI, Arial"
     >
-        71.33%
+        71.68%
     </text>
 
     <!-- Ranking -->
@@ -213,7 +213,7 @@
         fill="#58A6FF"
         font-family="Segoe UI, Arial"
     >
-        443805    </text>
+        431500    </text>
 
     <!-- Contest Rating -->
     <text
@@ -289,14 +289,14 @@
         <animate
             attributeName="width"
             from="0"
-            to="216.27"
+            to="211.98"
             dur="0.8s"
             fill="freeze"/>
     </rect>
 
     <!-- Medium -->
     <rect
-        x="241.26582278481"
+        x="236.97530864198"
         y="258"
         width="0"
         height="12"
@@ -305,13 +305,13 @@
         <animate
             attributeName="width"
             from="0"
-            to="97.91"
+            to="101.79"
             dur="1.1s"
             fill="freeze"/>
     </rect>
         <!-- Hard -->
     <rect
-        x="339.17721518987"
+        x="338.76543209877"
         y="258"
         width="0"
         height="12"
@@ -321,7 +321,7 @@
         <animate
             attributeName="width"
             from="0"
-            to="25.82"
+            to="26.23"
             dur="1.4s"
             fill="freeze"/>
     </rect>
@@ -335,7 +335,7 @@
         fill="#C9D1D9"
         font-family="Segoe UI, Arial"
     >
-        Easy 201    </text>
+        Easy 202    </text>
 
     <circle cx="125" cy="285" r="4" fill="#FFC01E"/>
     <text
@@ -345,7 +345,7 @@
         fill="#C9D1D9"
         font-family="Segoe UI, Arial"
     >
-        Medium 91    </text>
+        Medium 97    </text>
 
     <circle cx="255" cy="285" r="4" fill="#FF375F"/>
     <text
@@ -355,7 +355,7 @@
         fill="#C9D1D9"
         font-family="Segoe UI, Arial"
     >
-        Hard 24    </text>
+        Hard 25    </text>
 
     <!-- Right Information Panel -->
     <rect
